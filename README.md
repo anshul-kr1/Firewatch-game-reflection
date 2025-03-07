@@ -4,4 +4,5 @@
 
 # Mobile
 
-![firewatch-mobile](https://github.com/user-attachments/assets/432414bb-646b-4c7c-a041-d80a95442077)
+![firewatch-mobile](https://github.com/user-attachments/assets/4d71e11e-10d8-4a43-9e43-f5e63fc10ec3)
+
