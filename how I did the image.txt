@@ -1,0 +1,11 @@
+I was having trouble in the background img 
+Whenever I shortened the viewport, the tower would
+start moving up and fucked everything up.
+
+I solved by manually going and cropping the full image
+Don't know how but this fixed and while shortening the
+viewport the image and the tower no longer went up 
+and remained where it was.
+
+I have attached the original image and the cropped image.
+Only the cropped img is used in the code.
